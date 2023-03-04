@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+## :computer: Skills I have
+* Bioinformatics & Computational Biology
+* Machine Learning
+* Software Engineering
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjiangs&langs_count=8&layout=compact)
 
 <!--
