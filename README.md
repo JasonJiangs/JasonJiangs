@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[Get to know me](https://jasonjiangs.github.io/)
 
 ## :computer: Skills I have
 * Bioinformatics & Computational Biology
