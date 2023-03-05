@@ -8,6 +8,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjiangs&langs_count=10&layout=compact)
 
+
+## 🏊‍♂️ Weekly Development Breakdown
+
+![light](https://raw.githubusercontent.com/jasonjiangs/jasonjiangs/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+
 <!--
 **JasonJiangs/JasonJiangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
