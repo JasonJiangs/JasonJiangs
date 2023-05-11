@@ -1,7 +1,7 @@
 ### Hi there 👋
-[Get to know me: jasonjiangs.github.io](https://jasonjiangs.github.io/)
+[Personal Website](https://jasonjiangs.github.io/)
 
-## :computer: Skills I have
+## :computer: Interests
 * Bioinformatics & Computational Biology
 * Machine Learning
 * Software Engineering
