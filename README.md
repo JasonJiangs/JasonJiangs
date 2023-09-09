@@ -1,5 +1,4 @@
 ### Hi there 👋
-[Personal Website](https://jasonjiangs.github.io/)
 
 <a href="https://github.com/JasonJiangs"><img src="https://komarev.com/ghpvc/?username=JasonJiangs" alt="JasonJiangs" /></a>
 <a href="mailto:sjiang43@jhu.edu"><img src="https://img.shields.io/badge/Email-sjiang43@jhu.edu-blue" alt="Email" /></a>
@@ -10,9 +9,11 @@
 * AI for Science
 * Software Engineering
 
-![GitHub Statistics](https://raw.githubusercontent.com/JasonJiangs/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Shiyu Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonjiangs&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjiangs&langs_count=10&layout=compact)
+
+To learn more about me, here is my [website](https://jasonjiangs.github.io/).
 
 <!--
 **JasonJiangs/JasonJiangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
