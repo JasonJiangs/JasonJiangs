@@ -2,14 +2,15 @@
 [Personal Website](https://jasonjiangs.github.io/)
 
 <a href="https://github.com/JasonJiangs"><img src="https://komarev.com/ghpvc/?username=JasonJiangs" alt="JasonJiangs" /></a>
-<a href="https://github.com/JasonJiangs?tab=followers"><img src="https://img.shields.io/github/followers/JasonJiangs"></a>
 <a href="mailto:sjiang43@jhu.edu"><img src="https://img.shields.io/badge/Email-sjiang43@jhu.edu-blue" alt="Email" /></a>
 <a href="mailto:shiyujiang23@gmail.com"><img src="https://img.shields.io/badge/Email-shiyujiang23@gmail.com-blue" alt="Email" /></a>
 
 ## :computer: Interests
 * Bioinformatics & Computational Biology
-* Machine Learning
+* AI for Science
 * Software Engineering
+
+![GitHub Statistics](https://raw.githubusercontent.com/JasonJiangs/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjiangs&langs_count=10&layout=compact)
 
