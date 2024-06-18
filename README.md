@@ -6,9 +6,7 @@
 * AI for Science
 * Software Engineering
 
-![Shiyu Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonjiangs&theme=dark&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjiangs&langs_count=6&layout=compact)
+I am currently a research assistant in computation biology at the Center for Public Health Genomics at University of Virginia. Previously I interned at Stanford, UFL, and Alibaba Cloud. I am working on deep learning and GenAI for biological discovery, especially for epigenomics, DNA sequence, protein, single cell, and RNA.
 
 
 <!--
