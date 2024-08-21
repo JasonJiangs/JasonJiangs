@@ -6,8 +6,7 @@
 * AI for Science
 * Software Engineering
 
-I am currently a research assistant in computation biology at the Center for Public Health Genomics at University of Virginia. Previously I interned at Stanford, UFL, and Alibaba Cloud. I am working on deep learning and GenAI for biological discovery, especially for epigenomics, DNA sequence, protein, single cell, and RNA.
-
+I am currently a research intern at Westlake University, Hangzhou, China. Previously I worked at Stanford, U Florida, U Virginia, and Alibaba Cloud. I am working on deep learning and GenAI for biology and drug discovery, especially for epigenomics, DNA sequence, protein, single cell, and RNA.
 
 <!--
 **JasonJiangs/JasonJiangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
