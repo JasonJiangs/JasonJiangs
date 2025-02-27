@@ -1,12 +1,12 @@
-<a href="mailto:sjiang43@alumni.jh.edu"><img src="https://img.shields.io/badge/Email-sjiang43@alumni.jh.edu-blue" alt="Email" /></a>
+![image](https://github.com/user-attachments/assets/82990eed-2cea-49d7-9233-49a5f547560f)![image](https://github.com/user-attachments/assets/c2be4675-e750-4a7a-be71-0e64581fab66)<a href="mailto:sjiang43@alumni.jh.edu"><img src="https://img.shields.io/badge/Email-sjiang43@alumni.jh.edu-blue" alt="Email" /></a>
 <a href="mailto:shiyujiang23@gmail.com"><img src="https://img.shields.io/badge/Email-shiyujiang23@gmail.com-blue" alt="Email" /></a>
 
 ## :computer: Interests
-* Bioinformatics & Computational Biology
-* AI for Science
-* Software Engineering
+*	Deep Learning Methods for Molecular Interactions
+*	Large Language Model for Life Sciences
+*	Computational Genomics and Systems Biology
 
-I am currently a research intern at Westlake University, Hangzhou, China. Previously I worked at Stanford, U Florida, U Virginia, and Alibaba Cloud. I am working on deep learning and GenAI for biology and drug discovery, especially for epigenomics, DNA sequence, protein, single cell, and RNA.
+I am an incoming PhD student in Computational Biology and Bioinformatics (CBB) program at USC. I am currently working as a visiting researcher at the Westlake University, Hangzhou, China. Previously I worked at Stanford, U Florida, U Virginia, and Alibaba Cloud. I am working on deep learning and GenAI for biology and drug discovery, and explore how to discover and interpret new biology using computational models.
 
 <!--
 **JasonJiangs/JasonJiangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
