@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/82990eed-2cea-49d7-9233-49a5f547560f)![image](https://github.com/user-attachments/assets/c2be4675-e750-4a7a-be71-0e64581fab66)<a href="mailto:sjiang43@alumni.jh.edu"><img src="https://img.shields.io/badge/Email-sjiang43@alumni.jh.edu-blue" alt="Email" /></a>
+<a href="mailto:sjiang43@alumni.jh.edu"><img src="https://img.shields.io/badge/Email-sjiang43@alumni.jh.edu-blue" alt="Email" /></a>
 <a href="mailto:shiyujiang23@gmail.com"><img src="https://img.shields.io/badge/Email-shiyujiang23@gmail.com-blue" alt="Email" /></a>
 
 ## :computer: Interests
