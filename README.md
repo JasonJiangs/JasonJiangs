@@ -1,4 +1,4 @@
-<a href="mailto:sjiang43@alumni.jh.edu"><img src="https://img.shields.io/badge/Email-sjiang43@alumni.jh.edu-blue" alt="Email" /></a>
+<a href="mailto:shiyujia@usc.edu"><img src="https://img.shields.io/badge/Email-shiyujia@usc.edu-blue" alt="Email" /></a>
 <a href="mailto:shiyujiang23@gmail.com"><img src="https://img.shields.io/badge/Email-shiyujiang23@gmail.com-blue" alt="Email" /></a>
 
 ## :computer: Interests
