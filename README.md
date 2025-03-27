@@ -6,7 +6,7 @@
 *	Large Language Model for Life Sciences
 *	Computational Genomics and Systems Biology
 
-I am an incoming PhD student in Computational Biology and Bioinformatics (CBB) program at USC. I am currently working as a visiting researcher at the Westlake University, Hangzhou, China. Previously I worked at Stanford, U Florida, U Virginia, and Alibaba Cloud. I am working on deep learning and GenAI for biology and drug discovery, and explore how to discover and interpret new biology using computational models.
+I am a visiting researcher at the Westlake University, Hangzhou, China. Previously I worked at Stanford, U Florida, U Virginia, and Alibaba Cloud. I am working on deep learning and GenAI for biology and drug discovery, and explore how to discover and interpret new biology using computational models.
 
 <!--
 **JasonJiangs/JasonJiangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
