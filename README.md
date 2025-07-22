@@ -5,8 +5,9 @@
 *	Deep Learning Methods for Molecular Interactions
 *	Large Language Model for Life Sciences
 *	Computational Genomics and Systems Biology
+*	Drug Discovery
 
-I am a visiting researcher at the Westlake University, Hangzhou, China. Previously I worked at Stanford, U Florida, U Virginia, and Alibaba Cloud. I am working on deep learning and GenAI for biology and drug discovery, and explore how to discover and interpret new biology using computational models.
+I am an incoming PhD student in Computational Biology and Bioinformatics (CBB) program at USC. I received my Master’s degree in Computer Science from Johns Hopkins University and Bachelor’s degree in Computer Science from Wenzhou-Kean University. I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation models for life sciences and how to use them to interpret and discover new biology.
 
 <!--
 **JasonJiangs/JasonJiangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
